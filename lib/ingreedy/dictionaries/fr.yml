@@ -1,0 +1,164 @@
+:units:
+  :cup:
+    - "cups"
+    - "cup"
+    - "c."
+    - "c"
+  :fluid_ounce:
+    - "fl. oz."
+    - "fl oz"
+    - "fluid ounce"
+    - "fluid ounces"
+  :gallon:
+    - "gal"
+    - "gal."
+    - "gallon"
+    - "gallons"
+  :ounce:
+    - "oz"
+    - "oz."
+    - "ounce"
+    - "ounces"
+  :pint:
+    - "pt"
+    - "pt."
+    - "pint"
+    - "pints"
+  :pound:
+    - "lb"
+    - "lb."
+    - "pound"
+    - "pounds"
+  :quart:
+    - "qt"
+    - "qt."
+    - "qts"
+    - "qts."
+    - "quart"
+    - "quarts"
+  :tablespoon:
+    - "tbsp."
+    - "tbsp"
+    - "T"
+    - "T."
+    - "tablespoon"
+    - "tablespoons"
+    - "tbs."
+    - "tbs"
+    - 'cuillère à soupe'
+    - 'cuillères à soupe'
+    - 'cuillères'
+  :teaspoon:
+    - "tsp."
+    - "tsp"
+    - "t"
+    - "t."
+    - "teaspoon"
+    - "teaspoons"
+    - 'cuillère à café'
+    - 'cuillères à café'
+  :gram:
+    - "g"
+    - "g."
+    - "gr"
+    - "gr."
+    - "gram"
+    - "grams"
+    - "gramme"
+    - "grammes"
+  :kilogram:
+    - "kg"
+    - "kg."
+    - "kilogram"
+    - "kilograms"
+    - "kilogramme"
+    - "kilogrammes"
+  :liter:
+    - "l"
+    - "l."
+    - "liter"
+    - "liters"
+    - "litre"
+    - "litres"
+  :milligram:
+    - "mg"
+    - "mg."
+    - "milligram"
+    - "milligrams"
+    - "milligramme"
+    - "milligrammes"
+  :milliliter:
+    - "ml"
+    - "ml."
+    - "milliliter"
+    - "milliliters"
+    - "millilitre"
+    - "millilitres"
+  :pinch:
+    - "pinch"
+    - "pinches"
+  :dash:
+    - "dash"
+    - "dashes"
+  :touch:
+    - "touch"
+    - "touches"
+  :handful:
+    - "handful"
+    - "handfuls"
+  :stick:
+    - "stick"
+    - "sticks"
+  :clove:
+    - "cloves"
+    - "clove"
+  :can:
+    - "cans"
+    - "can"
+  :to_taste:
+    - "to taste"
+  :medium_size:
+    - "taille moyenne"
+    - "de taille moyenne"
+  :botte:
+    - 'botte'
+    - 'bottes'
+  :slice:
+    - 'tranche'
+    - 'tranches'
+  :nut:
+    - 'noix'
+:numbers:
+  un: 1
+  une: 1
+  zero: 0
+  deux: 2
+  trois: 3
+  quatre: 4
+  cinq: 5
+  six: 6
+  sept: 7
+  huit: 8
+  neuf: 9
+  dix: 10
+  onze: 11
+  douze: 12
+  treize: 13
+  quatorze: 14
+  quinze: 15
+  seize: 16
+  'dix\-sept': 17
+  'dix\-huit': 18
+  'dix\-neuf': 19
+  vingt: 20
+  trente: 30
+  quarante: 40
+  cinquante: 50
+  soixante: 60
+  'soixante\-dix': 70
+  'quatre\-vingt': 80
+  'quatre\-vingt\-dix': 90
+  cent: 100
+:prepositions:
+  - "de"
+  - "d'"
